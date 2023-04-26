@@ -5,7 +5,7 @@ date: 2023-04-16
 type: landing
 
 sections:
-  - block: about
+  - block: about.biography
     id: about
     content:
       title: Biography
