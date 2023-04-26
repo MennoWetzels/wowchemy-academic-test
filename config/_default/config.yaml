@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mirte Hanssen # Website name
-baseURL: 'https://www.mirtehanssen.nl/ # Website URL
+baseURL: 'https://www.mirtehanssen.nl/' # Website URL
 
 ############################
 ## LANGUAGE
